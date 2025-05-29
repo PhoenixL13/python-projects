@@ -1,6 +1,13 @@
 # python-projects
 This repository contains projects that I have coded in python.
 
+### Create Task
+**Summary**: This program generates a random item on a menu.
+**Key Features**: 
+- Takes users inputs to generate a good item.
+- Considers allergies and food type.
+- Can generate multiple recommendations.
+
 ### Multiplication Quiz
 **Summary**: This program allows users to take a quiz with multiplication problems.
 **Key Features**: 
