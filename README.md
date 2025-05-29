@@ -1,6 +1,13 @@
 # python-projects
 This repository contains projects that I have coded in python.
 
+### Dog Breeds
+**Summary**: This program generates a random dog breed for the user.
+**Key Features**: 
+- Takes users inputs to generate a dog breed.
+- Uses inputs like size and purpose.
+- Can generate multiple recommendations using the "amountofdogs" parameter.
+
 ### Create Task
 **Summary**: This program generates a random item on a menu.
 **Key Features**: 
